@@ -24,7 +24,7 @@ estudando para se especializar na area **quero seguir na carreira de jogos**.
 
 ## 🧠 oque eu faço
 
--   🏗️ Javascript
+-   🏗️ Java script
 -   ⚡ otimização e desempenho
 -   💳 assinaturas e pagamentos
 -   🤖 automação
